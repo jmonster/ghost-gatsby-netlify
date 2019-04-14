@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://notes.dealzil.la",
+    "contentApiKey": "d4a0706fece1755b1115df9dc0"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://notes.dealzil.la",
+    "contentApiKey": "d4a0706fece1755b1115df9dc0"
   }
 }
